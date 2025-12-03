@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "name":"Rose",
+        "latin_name":"Rosa",
+        "is_red_book_flower":false,
+        "price":"$2.50"
+    }, 
+    {
+        "id": "2",
+        "name":"Calla Lily",
+        "latin_name":"Zantedeschia",
+        "is_red_book_flower":false,
+        "price":"$9.00"
+    },
+    {
+        "id": "3",
+        "name":"Lotus",
+        "latin_name":"Nelumbo nucifera",
+        "is_red_book_flower":true,
+        "price":"$1200.00"
+    }
+]
